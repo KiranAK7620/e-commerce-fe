@@ -9,7 +9,7 @@ function App() {
       <Navigation />
 
       <div>
-        <HomePage/>
+        <HomePage />
       </div>
     </div>
   );
